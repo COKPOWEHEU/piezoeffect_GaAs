@@ -1,0 +1,10 @@
+sigma = 5e9 dyn/cm2
+d14 = 2.69e17 C/dyn
+mu = 100000 cm2/Vs
+epsilon = 13
+nu = 0.23
+n0 = 4.63e12 C/cm3
+dx = 0.1 um
+df = 0.2 um
+W = 20 um
+z = 10 nm
